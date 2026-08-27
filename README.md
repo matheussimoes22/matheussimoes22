@@ -25,7 +25,7 @@ Sou estudante de ADS e desenvolvedor front-end, interessado em criar interfaces 
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF7A00" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=FF7A00" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=FF7A00&logoWidth=20" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FF7A00" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Electron-0D1117?style=for-the-badge&logo=electron&logoColor=FF7A00" alt="Electron" />
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=FF7A00" alt="Node.js" />
