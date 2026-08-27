@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&weight=700&size=42&pause=1000&color=FF7A00&center=true&vCenter=true&repeat=false&width=700&height=100&lines=Matheus+Sim%C3%B5es" alt="Matheus Simões" />
+<img src="https://raw.githubusercontent.com/matheussimoes22/matheussimoes22/main/assets/matheus-signature.svg" alt="Matheus Simões" />
 
 # Desenvolvedor Front-end
 
