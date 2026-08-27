@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Matheus Simões</title>
+  <desc id="desc">Assinatura em estilo de fantasia medieval</desc>
+  <defs>
+    <linearGradient id="ember" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff7a00"/>
+      <stop offset="50%" stop-color="#ffd49b"/>
+      <stop offset="100%" stop-color="#ff7a00"/>
+    </linearGradient>
+    <filter id="glow" x="-15%" y="-40%" width="130%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g fill="none" stroke="url(#ember)" stroke-width="2" opacity="0.92">
+    <path d="M72 120h210m636 0h210"/>
+    <path d="M225 96l30 24-30 24m720-48l-30 24 30 24"/>
+    <circle cx="104" cy="120" r="18"/><circle cx="1096" cy="120" r="18"/>
+    <path d="M130 120l20-20m-20 20l20 20m920-20l-20-20m20 20l-20 20"/>
+  </g>
+  <text x="600" y="145" text-anchor="middle" fill="url(#ember)" filter="url(#glow)"
+        font-family="Georgia, serif" font-size="72" font-weight="700" letter-spacing="3">𝕸𝖆𝖙𝖍𝖊𝖚𝖘 𝕾𝖎𝖒𝖔̃𝖊𝖘</text>
+  <text x="600" y="183" text-anchor="middle" fill="#ffb45c"
+        font-family="Georgia, serif" font-size="15" letter-spacing="8">FRONT-END DEVELOPER</text>
+</svg>
