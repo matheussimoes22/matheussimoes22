@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/matheussimoes22/matheussimoes22/main/assets/matheus-signature.svg" alt="Matheus Simoes" />
+<img src="https://raw.githubusercontent.com/matheussimoes22/matheussimoes22/main/assets/matheus-signature.svg?v=20260830" alt="Matheus Simoes" />
 
 # Desenvolvedor Front-end
 
