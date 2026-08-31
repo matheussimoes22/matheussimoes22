@@ -2,7 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/matheussimoes22/matheussimoes22/main/assets/matheus-signature.svg?v=20260830-2" alt="Matheus Simoes" />
 
-# Desenvolvedor Front-end
 
 **Estudante de Análise e Desenvolvimento de Sistemas**
 
