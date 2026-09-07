@@ -40,13 +40,13 @@ Aplicação desktop para organização de uma sala de leitura escolar. O projeto
 
 `HTML` · `CSS` · `JavaScript` · `Electron` · `Node.js`
 
-### Clima de Toussaint
+### [Clima de Toussaint](https://github.com/matheussimoes22/clima-de-toussaint)
 
 Projeto pessoal de fã inspirado em **Toussaint**, de *The Witcher 3*. Uma experiência de clima em tempo real voltada a roleplay, combinando ambientação, regras meteorológicas e uma interface temática.
 
 `HTML` · `CSS` · `JavaScript`
 
-> Em breve no GitHub.
+**[Abrir o aplicativo](https://weathertoussaint.netlify.app/clima-de-toussaint.html)** · **[Ver o código no GitHub](https://github.com/matheussimoes22/clima-de-toussaint)**
 
 ## Contato
 
