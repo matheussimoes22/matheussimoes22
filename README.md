@@ -18,7 +18,7 @@
 
 ## Sobre mim
 
-Sou estudante de ADS e desenvolvedor front-end, interessado em criar interfaces claras, funcionais e com boa experiência de uso. Atualmente desenvolvo projetos web e desktop, unindo organização visual, interações e integração com tecnologias de back-end.
+Sou estudante de ADS e desenvolvedor front-end, interessado em criar interfaces claras, funcionais e com boa experiência de uso. Atualmente desenvolvo projetos web, desktop e Android, unindo organização visual, interações e integração com tecnologias de back-end.
 
 ## Tecnologias
 
@@ -28,6 +28,8 @@ Sou estudante de ADS e desenvolvedor front-end, interessado em criar interfaces 
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FF7A00" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Electron-0D1117?style=for-the-badge&logo=electron&logoColor=FF7A00" alt="Electron" />
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=FF7A00" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Capacitor-0D1117?style=for-the-badge&logo=capacitor&logoColor=FF7A00" alt="Capacitor" />
+  <img src="https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=FF7A00" alt="Android" />
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF7A00" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF7A00" alt="GitHub" />
 </p>
@@ -42,11 +44,11 @@ Aplicação desktop para organização de uma sala de leitura escolar. O projeto
 
 ### [Clima de Toussaint](https://github.com/matheussimoes22/clima-de-toussaint)
 
-Projeto pessoal de fã inspirado em **Toussaint**, de *The Witcher 3*. Uma experiência de clima em tempo real voltada a roleplay, combinando ambientação, regras meteorológicas e uma interface temática.
+Projeto pessoal de fã inspirado em **Toussaint**, de *The Witcher 3*. Uma experiência climática determinística voltada a roleplay, com interface temática compartilhada entre a web e o aplicativo Android.
 
-`HTML` · `CSS` · `JavaScript`
+`HTML` · `CSS` · `JavaScript` · `Capacitor` · `Android`
 
-**[Abrir o aplicativo](https://weathertoussaint.netlify.app/clima-de-toussaint.html)** · **[Ver o código no GitHub](https://github.com/matheussimoes22/clima-de-toussaint)**
+**[Abrir interface web](https://weathertoussaint.netlify.app/clima-de-toussaint.html)** · **[Baixar aplicativo Android](https://github.com/matheussimoes22/clima-de-toussaint/releases/latest/download/clima-de-toussaint-android-v2.0.0.apk)** · **[Ver o código](https://github.com/matheussimoes22/clima-de-toussaint)**
 
 ## Contato
 
