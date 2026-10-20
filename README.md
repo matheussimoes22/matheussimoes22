@@ -48,7 +48,7 @@ Projeto pessoal de fã inspirado em **Toussaint**, de *The Witcher 3*. Uma exper
 
 `HTML` · `CSS` · `JavaScript` · `Capacitor` · `Android`
 
-**[Abrir interface web](https://weathertoussaint.netlify.app/clima-de-toussaint.html)** · **[Baixar aplicativo Android](https://github.com/matheussimoes22/clima-de-toussaint/releases/latest/download/clima-de-toussaint-android-v2.0.0.apk)** · **[Ver o código](https://github.com/matheussimoes22/clima-de-toussaint)**
+**[Abrir interface web](https://weathertoussaint.netlify.app/clima-de-toussaint.html)** · **[Baixar aplicativo Android](https://github.com/matheussimoes22/clima-de-toussaint/releases/latest/download/clima-de-toussaint-android.apk)** · **[Ver o código](https://github.com/matheussimoes22/clima-de-toussaint)**
 
 ## Contato
 
